@@ -9,7 +9,9 @@
 
 - An aspiring Full Stack Developer with 800+ hours of coding experience in JavaScript.
 
--A dedicated team player enthusiastic to be part of a reputed company. Always looking forward to learning something new to strengthen skills learned.
+-A dedicated team player enthusiastic to be part of a reputed company. 
+
+-Always looking forward to learning something new to strengthen skills learned.
 
 - 🔭 I’m currently working on **portfolio website**
 
