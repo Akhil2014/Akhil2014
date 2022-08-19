@@ -1,15 +1,15 @@
-### Hi there 👋
 
-<h1 align="center">Hi buddy 👋, I'm Akhil khan</h1>
+
+<h1 align="center">Hi buddy 👋</h1>
 <h3 align="center">I will face many defeats in my life, but never let myself be defeated.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil2014&label=Profile%20views&color=0e75b6&style=flat" alt="akhil2014" /> </p>
 
-- Hello , I am Akhil Khan and I enjoy doing coding**
+- Hello , I am Akhil Khan and I enjoy doing coding.
 
-- An aspiring Full Stack Developer with 800+ hours of coding experience in JavaScript.**
+- An aspiring Full Stack Developer with 800+ hours of coding experience in JavaScript.
 
--A dedicated team player enthusiastic to be part of a reputed company. Always looking forward to learning something new to strengthen skills learned.**
+-A dedicated team player enthusiastic to be part of a reputed company. Always looking forward to learning something new to strengthen skills learned.
 
 - 🔭 I’m currently working on **portfolio website**
 
