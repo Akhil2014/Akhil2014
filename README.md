@@ -5,6 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil2014&label=Profile%20views&color=0e75b6&style=flat" alt="akhil2014" /> </p>
 
+- Hello , I am Akhil Khan and I enjoy doing coding**
+
+- An aspiring Full Stack Developer with 800+ hours of coding experience in JavaScript.**
+
+-A dedicated team player enthusiastic to be part of a reputed company. Always looking forward to learning something new to strengthen skills learned.**
+
 - 🔭 I’m currently working on **portfolio website**
 
 - 🌱 I’m currently learning **FULL STACK DEVELOPER**
