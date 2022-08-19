@@ -15,8 +15,6 @@
 
 - 🔭 I’m currently working on **portfolio website**
 
-- 🌱 I’m currently learning **FULL STACK DEVELOPER**
-
 - 📫 How to reach me **akhilkhan0786khan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
