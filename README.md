@@ -17,7 +17,8 @@
 
 - 📫 How to reach me **akhilkhan0786khan@gmail.com**
 
--linkedin https://www.linkedin.com/in/akhil-khan-709122207/
+- linkedin https://www.linkedin.com/in/akhil-khan-709122207/
+- portfolio https://akhilkhan-portfolio.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
