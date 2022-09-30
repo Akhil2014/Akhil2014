@@ -9,12 +9,6 @@
 
 - An aspiring Full Stack Developer with 800+ hours of coding experience in JavaScript.
 
-- A dedicated team player enthusiastic to be part of a reputed company. 
-
-- Always looking forward to learning something new to strengthen skills learned.
-
-- 🔭 I’m currently working on **portfolio website**
-
 - 📫 How to reach me **akhilkhan0786khan@gmail.com**
 
 - linkedin https://www.linkedin.com/in/akhil-khan-709122207/
