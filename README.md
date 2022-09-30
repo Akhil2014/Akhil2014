@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi buddy 👋</h1>
-<h3 align="center">I will face many defeats in my life, but never let myself be defeated.</h3>
+<h3 align="center">“All our dreams can come true, if we have the courage to pursue them.”</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil2014&label=Profile%20views&color=0e75b6&style=flat" alt="akhil2014" /> </p>
 
