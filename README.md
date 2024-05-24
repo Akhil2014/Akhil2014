@@ -12,7 +12,7 @@
 - 📫 How to reach me **akhilkhan0786khan@gmail.com**
 
 - linkedin https://www.linkedin.com/in/akhil-khan-709122207/
-- portfolio https://akhilkhan-portfolio.vercel.app/
+- portfolio [https://akhilkhan-portfolio.vercel.app/](https://akhil-khan-portfolio.vercel.app/)
 
 <p align="left">
 </p>
