@@ -7,7 +7,7 @@
 
 - Hello , I am Akhil Khan.
 
-- An aspiring Full Stack Developer with 800+ hours of coding experience in JavaScript.
+- An aspiring Full Stack Developer with 1800+ hours of coding experience in JavaScript.
 
 - 📫 How to reach me **akhilkhan0786khan@gmail.com**
 
